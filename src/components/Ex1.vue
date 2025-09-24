@@ -31,7 +31,4 @@
 </template>
 
 <style scoped>
-    input[type="radio"]{
-        accent-color: white;
-    }
 </style>

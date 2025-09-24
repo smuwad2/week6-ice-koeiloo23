@@ -13,5 +13,9 @@
 <template>
 
     <!-- add code here -->
+    <div id="photo">
+        <img v-bind:src="myImg" v-bind:width="width" v-bind:height="height"> 
+        <!-- : is a short hand notation for v-bind -->
+    </div>
    
 </template>
